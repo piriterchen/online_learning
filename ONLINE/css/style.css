@@ -1,0 +1,196 @@
+﻿<!--
+@media (min-width:938px){
+body{
+	margin:0px;
+	background:#9FB6CD;
+}
+
+.searchresult{
+	font-family:'微软雅黑';
+	
+}
+.searchresult h2{
+	padding:10px 6%;
+}
+.searchresult table{
+	width:90%;
+	margin-left:5%;
+}
+.searchresult td{
+	border-top:1px solid gray;
+	border-bottom:1px solid gray;
+	height:120px;
+	background-color:#E0EEEE;
+}
+#image{
+	padding-left:30px;
+	width:20%;
+}
+#image img{
+	width:180px;
+	height:110px;
+}
+
+#text{
+	width:80%;
+	height:120px;
+	text-decoration:none;
+}
+
+/*****翻页条的设计*****/
+#pagechange{
+	margin-top:0px;
+	padding-top:7px;
+	padding-right:5%;
+	font-size:16px;
+	color:#000000;
+	height:30px;
+	text-align:right;
+}
+#pagechange a{
+	color:#8C8C8C;
+	text-decoration:none;
+}
+#pagechange a:hover,a:active{
+	color:#9BCD9B;
+}
+
+#course_name{
+	font-size:20px;
+	margin-top:0px;
+	margin-bottom:10px;
+	line-height:100%;
+	padding-top:20px;
+	padding-left:50px;
+	padding-right:150px;
+	text-align:left;
+	color:#000000;
+}
+#course_concern{
+	font-size:14px;
+	color:#8B8970;
+	margin-top:5px;
+	margin-bottom:0px;
+	line-height:80%;	
+	padding-left:50Px;
+	padding-right:150px;
+	text-align:left;
+}
+#course_content{
+	font-size:14px;
+	color:#8B8970;
+	margin-top:10px;
+	margin-bottom:0px;
+	line-height:110%;	
+	padding-left:50Px;
+	padding-right:150px;
+	text-align:left;
+}
+#no_result{
+	font-size:30px;
+	color:black;
+	margin:20px;
+	text-align:center;
+	word-spacing:0.5em;
+}
+}
+@media (max-width:937px){
+body{
+	margin:0px;
+	background:#9FB6CD;
+	width:937px;
+}
+
+.searchresult{
+	font-family:'微软雅黑';
+  width:900px;	
+}
+.searchresult h2{
+	padding:10px 6%;
+}
+.searchresult table{
+	width:90%;
+	margin-left:5%;
+}
+.searchresult td{
+	border-top:1px solid gray;
+	border-bottom:1px solid gray;
+	height:120px;
+	background-color:#E0EEEE;
+}
+#image{
+	padding-left:30px;
+	width:20%;
+}
+#image img{
+	width:180px;
+	height:110px;
+}
+
+#text{
+	width:80%;
+	height:120px;
+	text-decoration:none;
+}
+
+/*****翻页条的设计*****/
+#pagechange{
+	margin-top:0px;
+	padding-top:7px;
+	padding-right:5%;
+	font-size:16px;
+	color:#000000;
+	height:30px;
+	text-align:right;
+}
+#pagechange a{
+	color:#8C8C8C;
+	text-decoration:none;
+}
+#pagechange a:hover,a:active{
+	color:#9BCD9B;
+}
+
+#course_name{
+	font-size:20px;
+	margin-top:0px;
+	margin-bottom:10px;
+	line-height:100%;
+	padding-top:20px;
+	padding-left:50px;
+	padding-right:150px;
+	text-align:left;
+	color:#000000;
+}
+#course_concern{
+	font-size:14px;
+	color:#8B8970;
+	margin-top:5px;
+	margin-bottom:0px;
+	line-height:80%;	
+	padding-left:50Px;
+	padding-right:150px;
+	text-align:left;
+}
+#course_content{
+	font-size:14px;
+	color:#8B8970;
+	margin-top:10px;
+	margin-bottom:0px;
+	line-height:110%;	
+	padding-left:50Px;
+	padding-right:150px;
+	text-align:left;
+}
+#no_result{
+	font-size:30px;
+	color:black;
+	margin:20px;
+	text-align:center;
+	word-spacing:0.5em;
+}
+
+}
+
+
+-->

@@ -1,0 +1,36 @@
+﻿function hide1(id){
+	if(document.getElementById(id).innerHTML==="查看更多")
+	  document.getElementById(id).innerHTML="隐藏更多";
+	else
+		document.getElementById(id).innerHTML="查看更多";
+}
+function hide2(id){
+	if(document.getElementById(id).innerHTML==="查看更多")
+	  document.getElementById(id).innerHTML="隐藏更多";
+	else
+		document.getElementById(id).innerHTML="查看更多";
+}
+function hide3(id){
+	if(document.getElementById(id).innerHTML==="查看更多")
+	  document.getElementById(id).innerHTML="隐藏更多";
+	else
+		document.getElementById(id).innerHTML="查看更多";
+}
+function hide4(id){
+	if(document.getElementById(id).innerHTML==="查看更多")
+	  document.getElementById(id).innerHTML="隐藏更多";
+	else
+		document.getElementById(id).innerHTML="查看更多";
+}
+function hide5(id){
+	if(document.getElementById(id).innerHTML==="查看更多")
+	  document.getElementById(id).innerHTML="隐藏更多";
+	else
+		document.getElementById(id).innerHTML="查看更多";
+}
+function hide6(id){
+	if(document.getElementById(id).innerHTML==="查看更多")
+	  document.getElementById(id).innerHTML="隐藏更多";
+	else
+		document.getElementById(id).innerHTML="查看更多";
+}

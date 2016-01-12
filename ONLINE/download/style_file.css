@@ -1,0 +1,48 @@
+@media  (min-width: 1700px){
+.upfile{
+	padding-top:100px;
+	font-family:'Î¢ÈíÑÅºÚ';
+}
+#title{
+	font-weight:bold;
+	text-align:center;
+	font-size:40px;
+	height:80px;
+}
+#desc{
+	font-size: 26px;
+	height:52px;
+}
+#info{
+	font-size: 24px;
+	height:42px;
+}
+#main{
+	font-size: 22px;
+	height:38px;
+}
+}
+@media  (max-width: 1699px){
+.upfile{
+	padding-top:68px;
+	font-family:'Î¢ÈíÑÅºÚ';
+}
+#title{
+	font-weight:bold;
+	text-align:center;
+	font-size:36px;
+	height:72px;
+}
+#desc{
+	font-size: 22px;
+	height:44px;
+}
+#info{
+	font-size: 20px;
+	height:38px;
+}
+#main{
+	font-size: 18px;
+	height:32px;
+}
+}

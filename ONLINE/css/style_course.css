@@ -1,0 +1,118 @@
+﻿<!--
+body{
+	margin:0px;
+	background:#9FB6CD;
+}
+.heading{
+	margin:5px;
+	width:100%;
+	height:80px;
+	background:#000000;
+}
+.label{
+	margin:2px;
+	width:69%;
+	height:75px;
+	float:left;
+	color:#FFFFFF;
+	text-align:center;
+	font-family:Sans-serif;
+	background:#000000;
+}
+.log{
+	margin-top:40px;
+	width:10%;
+	height:20px;
+	float:left;
+	background:#000000;
+}
+.log a:link,a:visited{
+	margin:2px;
+	text-align:center;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#000000;
+	text-decoration:none;
+}
+.log a:hover,a:active
+{
+	background-color:#cccccc;
+}
+.search{
+	margin-top:40px;
+	float:left;
+	width:15%;
+	
+}
+.submit{
+	margin-top:40px;
+	float:left;
+}
+.course_info{
+	background-color:white;
+	margin:10px;
+	height:300px;
+}
+
+.course_info img{
+	margin-left:50px;
+	margin-top:50px;
+	padding:50px;
+	float:left;
+	border:solid black;
+}
+.course_info td{
+	padding-left:50px;
+	display:block;
+	background-color:#6E6E6E;
+	color:#FFFFFF;
+	width:80%;
+	margin-top:50px;
+	margin-left:100px;
+	height:200px;
+}
+.course_info h1{
+	height:30px;
+	margin-bottom:5px;
+}
+.chapter_info{
+	margin:20px;
+	background-color:white;
+	width:50%;
+	float:left;
+}
+.chapter_info table{
+	width:100%;
+}
+.chapter_info td{
+	border-top:1px solid gray;
+	border-bottom:1px solid gray;
+}
+.chapter_info h2{
+	padding-top:10px;
+	padding-left:20px;
+	margin-bottom:10px;
+}
+.chapter_info h3{
+	padding-left:50px;
+}
+.chapter_info p{
+	padding-left:50px;
+}
+.teacher_info{
+	margin:20px;
+	background-color:white;
+	width:30%;
+	float:right;
+	height:200px;
+}
+.teacher_info h2{
+	padding-top:10px;
+	padding-left:30px;
+}
+.teacher_info p{
+	padding-left:30px;
+}
+
+
+-->

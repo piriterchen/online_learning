@@ -1,0 +1,20 @@
+﻿<?php
+$course_new="select * from ".tb_table_course." where m_type like '$keyword%' order by m_numconcern desc"; 
+$courseid=array();
+$coursename=array();
+$coursecontent=array();
+$courseconcern=array();
+$courseimage=array();
+$courseteacher=array();
+$result=$conn->query($course_new);
+if($result){
+	while($row=mysqli_fetch_array($result)){
+    $courseid[]=$row['m_courseid'];
+		$coursename[]=$row['m_course'];
+		$coursecontent[]=$row['m_content'];
+		$courseconcern[]=$row['m_numconcern'];
+		$courseimage[]=$row['m_image'];
+		$courseteacher[]=$row['m_teacher'];	      
+	}
+}
+?>

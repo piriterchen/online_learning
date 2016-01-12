@@ -1,0 +1,44 @@
+﻿@media  (max-width: 1699px){
+   #button_register{
+	text-decoration:none;
+	font-size:16px;
+	font-family:'微软雅黑';
+}
+#button_register:hover{
+	text-decoration:none;
+	color: #9BCD9B;
+}
+.register_in{
+	margin-top:80px;
+	background-color:	#EEE5DE;
+	width:600px;
+	margin-left:30%;
+	margin-bottom:130px;
+	-moz-border-radius: 100px / 50px;
+  -webkit-border-radius: 100px / 50px;
+   border-radius: 100px / 50px;
+}
+.register_in form input[type="text"]{
+	font-family: '微软雅黑';
+	color: #575757;
+	font-size: 15px;
+	background: #FFFFFF;
+	width: 100%;
+	position: relative;
+	-webkit-appearance: none;
+}
+.register_in form input[type="password"]{
+	font-family: '微软雅黑';
+	
+	color: #575757;
+	font-size: 15px;
+	background: #FFFFFF;
+	width: 100%;
+	position: relative;
+	-webkit-appearance: none;
+}
+.register_in td{
+	padding: 10px 16px;
+	line-height: 20px;
+}
+}

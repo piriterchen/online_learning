@@ -1,14 +1,12 @@
 Online Learning
-
+=========
 简介
-
+---------
 这是一个在线学习网站的实例代码
 
 安装指南
-
-
+----------
 1. 配置网站环境：PHP+MySQL+Apache
-
 
 2. 创建数据库，导入ONLINE下的db_class.sql文件。
 
